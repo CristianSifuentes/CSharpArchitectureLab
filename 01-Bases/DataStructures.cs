@@ -1,15 +1,3 @@
-// File: DataTypesDeepDive.cs
-// Author: You + ChatGPT
-// Goal: Explain C# data types like a systems / compiler / performance engineer.
-//
-// High-level mental model (how ANY data type travels through the stack):
-//  1. The C# compiler (Roslyn) translates your code into IL (Intermediate Language).
-//  2. The JIT compiler (at runtime) translates that IL into machine code for your CPU.
-//  3. The CLR runtime + JIT decide how each data type is represented:
-//       - Which IL "stack type" it uses (I4, I8, R8, OBJ, etc.).
-//       - Whether it lives in a register, stack slot, or on the managed heap.
-//  4. The CPU only sees bits: fixed-width integer registers, floating-point registers,
-//     and bytes in memory. “int”, “double”, “string” are *abstractions* on top of this.
 
 
 
