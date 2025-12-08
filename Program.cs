@@ -11,8 +11,8 @@ partial class Program
   {
     //VariablesDeepDive();
     //DataTypesDeepDive();
-    ShowNumericTypes();
-    //ShowStringType();
+    //ShowNumericTypes();
+     ShowStringType();
     //SalesReport();
     //SalaryCalculator();
     //ShowTime();
