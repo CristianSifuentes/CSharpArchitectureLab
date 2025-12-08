@@ -1,10 +1,17 @@
-﻿partial class Program
+﻿using System;
+using System.Numerics;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+
+
+
+partial class Program
 {
   static void Main(string[] args)
   {
     //VariablesDeepDive();
     //DataTypesDeepDive();
-    //ShowNumericTypes();
+    ShowNumericTypes();
     //ShowStringType();
     //SalesReport();
     //SalaryCalculator();
