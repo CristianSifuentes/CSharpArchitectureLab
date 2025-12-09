@@ -1,5 +1,5 @@
 // File: VariablesDeepDive.cs
-// Author:Cristian Sifuentes Covarrubia + ChatGPT (Deep dive into C# variables)
+// Author: Cristian Sifuentes Covarrubia + ChatGPT (Deep dive into C# variables)
 // Goal: Explain variables like a systems / compiler / performance engineer.
 
 // IMPORTANT MENTAL MODEL
