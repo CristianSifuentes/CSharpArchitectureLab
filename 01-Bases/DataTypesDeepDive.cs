@@ -1,5 +1,5 @@
-// File: DataTypes.cs
-// Author: Cristian + ChatGPT
+// File: DataTypesDeepDive.cs
+// Author: Cristian Sifuentes + ChatGPT
 // Goal: Explain C# data types like a systems / compiler / performance engineer.
 //
 // High-level mental model (how ANY data type travels through the stack):
