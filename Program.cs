@@ -26,6 +26,6 @@ partial class Program
         //    InventoryManager(); 
         // CollectionsListDictionaryDeepDive();
         // DataStructuresDeepDive();  
-     Generics(); 
+        GenericsDeepDive(); 
   }
 }
