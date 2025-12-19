@@ -9,6 +9,9 @@ partial class Program
 {
   static void Main(string[] args)
   {
+
+      #region Section2
+
         //VariablesDeepDive();
         //DataTypesDeepDive();
         //ShowNumericTypes();
@@ -18,14 +21,32 @@ partial class Program
         //ShowTime();
         //DaysOfLife();
         //DaysUntilNextBirthday();
+        //TypeDifference();
+        //HandleNullables();
+        //OperatorsDeepDive();
+        //ArraysDeepDive(); 
+        //InventoryManager(); 
+        //CollectionsListDictionaryDeepDive();
+        //DataStructuresDeepDive();  
+        //GenericsDeepDive();
 
-        // TypeDifference();
-        // HandleNullables();
-        // OperatorsDeepDive();
-        // ArraysDeepDive(); 
-        //    InventoryManager(); 
-        // CollectionsListDictionaryDeepDive();
-        // DataStructuresDeepDive();  
-        GenericsDeepDive(); 
+      #endregion 
+        
+      #region Section3  
+      // ConditionalsDeepDive();
+      // LoopsDeepDive();
+      // FizzBuzzDeepDive();
+      // LoopControlDeepDive();
+      // LoopGame_DeepDive();
+      // ConversionsDeepDive();
+      // ConversionToDateTimeDeepDive();
+      // FunctionsDeepDive();
+      // PrintMultiplicationTable(7, 15);
+      // PrintMultiplicationTable(tableLimit: 15, number: 10);
+      // PrintFactorialTable(5);
+      // TuplesDeepDive();
+        AnonymousFunctions();
+      #endregion
+  
   }
 }
