@@ -45,7 +45,23 @@ partial class Program
       // PrintMultiplicationTable(tableLimit: 15, number: 10);
       // PrintFactorialTable(5);
       // TuplesDeepDive();
-        AnonymousFunctions();
+      // AnonymousFunctions();
+      #endregion
+
+      #region Section4
+      // TestingClass();
+      // Properties();
+      // Methods();
+      // Force garbage collection
+      // GC.Collect();
+      // // Execute the finalizers
+      // GC.WaitForPendingFinalizers();
+      // ProductSalesDemo();
+      // BusFleet();
+      // Inheritance();
+      // AbstracClassExamples();
+      // Visibility();
+      ShowEmpoyeesInformation();
       #endregion
   
   }
