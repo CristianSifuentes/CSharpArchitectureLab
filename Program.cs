@@ -61,8 +61,16 @@ partial class Program
       // Inheritance();
       // AbstracClassExamples();
       // Visibility();
-      ShowEmpoyeesInformation();
+
+       ShowEmpoyeesInformation();
+      // HandleException();
+      // Collections();
+      // Linq();
+      // AdvancedLinq.Program.AdvancedLINQ();
       #endregion
+
+
+
   
   }
 }
