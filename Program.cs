@@ -62,11 +62,18 @@ partial class Program
       // AbstracClassExamples();
       // Visibility();
 
-       ShowEmpoyeesInformation();
+      // ShowEmpoyeesInformation();
       // HandleException();
       // Collections();
       // Linq();
       // AdvancedLinq.Program.AdvancedLINQ();
+
+       SalesAnalysis();
+      // FileExample();
+      // DirectoryExample();
+      // PathExample();
+      // WriteFileExample();
+      // ManageJsonFile.Program.ManageJsonFile();
       #endregion
 
 
