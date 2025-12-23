@@ -11,4 +11,8 @@
     <Using Include="System.Console" Static="true" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="04-ExcepCollections\" />
+  </ItemGroup>
+
 </Project>
