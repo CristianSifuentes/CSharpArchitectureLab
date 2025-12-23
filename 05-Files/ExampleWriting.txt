@@ -1,0 +1,5 @@
+
+First line
+The current time is: 11:59:32
+This will be added to the end
+The current time is: 12:00:39

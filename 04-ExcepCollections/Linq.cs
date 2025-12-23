@@ -25,14 +25,14 @@ partial class Program
     //  Simple queries
 
     List<MarvelCharacter> characters = new List<MarvelCharacter>
-{
-  new MarvelCharacter { Name = "Peter Parker", Alias = "Spider-Man", Team = "Avengers" },
-  new MarvelCharacter { Name = "Tony Stark", Alias = "Iron Man", Team = "Avengers" },
-  new MarvelCharacter { Name = "Steve Rogers", Alias = "Captain America", Team = "Avengers" },
-  new MarvelCharacter { Name = "Natasha Romanoff", Alias = "Black Widow", Team = "Avengers" },
-  new MarvelCharacter { Name = "T'Challa", Alias = "Black Panther", Team = "Wakanda" },
-  new MarvelCharacter { Name = "Stephen Strange", Alias = "Doctor Strange", Team = "Defenders" }
- };
+    {
+      new MarvelCharacter { Name = "Peter Parker", Alias = "Spider-Man", Team = "Avengers" },
+      new MarvelCharacter { Name = "Tony Stark", Alias = "Iron Man", Team = "Avengers" },
+      new MarvelCharacter { Name = "Steve Rogers", Alias = "Captain America", Team = "Avengers" },
+      new MarvelCharacter { Name = "Natasha Romanoff", Alias = "Black Widow", Team = "Avengers" },
+      new MarvelCharacter { Name = "T'Challa", Alias = "Black Panther", Team = "Wakanda" },
+      new MarvelCharacter { Name = "Stephen Strange", Alias = "Doctor Strange", Team = "Defenders" }
+    };
     // WriteLine("Characters that belong to the Avengers team:");
     var avengersQuery = from c in characters
                         where c.Team == "Avengers"
