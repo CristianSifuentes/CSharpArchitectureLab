@@ -1,0 +1,2 @@
+This is inside the file.
+This is a new line.
