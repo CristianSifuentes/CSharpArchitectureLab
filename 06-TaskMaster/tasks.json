@@ -1,0 +1,34 @@
+[
+  {
+    "Id": "05dc700",
+    "Description": "Clean the room",
+    "Completed": true,
+    "CreatedAt": "2024-04-15T00:00:00",
+    "ModifiedAt": "2025-03-10T19:17:56.371587-04:00",
+    "Deleted": true
+  },
+  {
+    "Id": "f73d8fd",
+    "Description": "Eat healthy",
+    "Completed": true,
+    "CreatedAt": "2024-01-15T00:00:00",
+    "ModifiedAt": "2025-03-13T15:09:37.489768-04:00",
+    "Deleted": true
+  },
+  {
+    "Id": "3f6c921",
+    "Description": "Study C#",
+    "Completed": false,
+    "CreatedAt": "2025-03-11T15:20:53.051415-04:00",
+    "ModifiedAt": "2025-03-12T13:16:17.74727-04:00",
+    "Deleted": false
+  },
+  {
+    "Id": "935c937",
+    "Description": "Clean the terrace",
+    "Completed": false,
+    "CreatedAt": "2025-03-13T19:43:15.533755-04:00",
+    "ModifiedAt": "2025-03-13T19:43:15.533771-04:00",
+    "Deleted": false
+  }
+]
